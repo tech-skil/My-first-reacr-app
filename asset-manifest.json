@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-first-reacr-app/static/css/main.b5bb7984.css",
+    "main.js": "/My-first-reacr-app/static/js/main.a2817558.js",
+    "static/js/787.8e65a364.chunk.js": "/My-first-reacr-app/static/js/787.8e65a364.chunk.js",
+    "index.html": "/My-first-reacr-app/index.html",
+    "main.b5bb7984.css.map": "/My-first-reacr-app/static/css/main.b5bb7984.css.map",
+    "main.a2817558.js.map": "/My-first-reacr-app/static/js/main.a2817558.js.map",
+    "787.8e65a364.chunk.js.map": "/My-first-reacr-app/static/js/787.8e65a364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bb7984.css",
+    "static/js/main.a2817558.js"
+  ]
+}
